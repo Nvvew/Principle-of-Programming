@@ -1,3 +1,2 @@
 # Object-Oriented Programming
-## \ \ \ \ in Python for Mathematicians
-
+## &nbsp;&nbsp;&nbsp;&nbsp;in Python for Mathematicians
